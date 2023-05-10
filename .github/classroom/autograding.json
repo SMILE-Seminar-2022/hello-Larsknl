@@ -11,7 +11,7 @@
       "points": null
     },
     {
-      "name": "Datei&#45;Abgleichen",
+      "name": "DateiAbgleichen",
       "setup": "",
       "run": "git diff feedback.java Überprüfung_Test.java",
       "input": "",
