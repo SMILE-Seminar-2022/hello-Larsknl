@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "Datei&#45;Abgleichen",
+      "setup": "",
+      "run": "git diff feedback.java Überprüfung_Test.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
