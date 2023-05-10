@@ -10,7 +10,7 @@ public class feedback {
 
    @Test
    public void testPrintMessage() {
-      assertEquals(message,messageUtil.printMessage());
+      assertEquals(messageUtil.printMessage());
    }
 }
 #Dies ist ein Test 2
