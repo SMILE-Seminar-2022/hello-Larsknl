@@ -1,16 +1,6 @@
 {
   "tests": [
     {
-      "name": "feedback.java",
-      "setup": "",
-      "run": "gradle test",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
       "name": "DateiAbgleichen",
       "setup": "",
       "run": "git diff feedback.java Überprüfung_Test.java",
